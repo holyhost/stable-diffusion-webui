@@ -895,8 +895,8 @@ footer {
 .extra-network-cards .card{
     display: inline-block;
     margin: 0.5em;
-    width: 16em;
-    height: 24em;
+    width: 8em;
+    height: 11em;
     box-shadow: 0 0 5px rgba(128, 128, 128, 0.5);
     border-radius: 0.2em;
     position: relative;
